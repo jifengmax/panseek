@@ -1,0 +1,22 @@
+{
+  "name": "panseek",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "PanSeek — 网盘资源聚合搜索（夸克/阿里云盘/百度/115/迅雷/UC/天翼/123/PikPak/磁力）",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "start": "node server/index.mjs",
+    "dev": "node --watch server/index.mjs",
+    "test": "node --test"
+  },
+  "keywords": [
+    "网盘搜索",
+    "pan search",
+    "quark",
+    "aliyundrive"
+  ],
+  "license": "MIT"
+}

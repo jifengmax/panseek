@@ -1,0 +1,1522 @@
+{
+ "_meta": {
+  "generatedAt": "2026-11-02T08:28:11.299Z",
+  "endpoint": "https://so.252035.xyz/api/search",
+  "keywords": [
+   "流浪地球",
+   "三体",
+   "繁花",
+   "奥本海默",
+   "肖申克的救赎",
+   "甄嬛传",
+   "进击的巨人",
+   "鬼灭之刃",
+   "周杰伦",
+   "Photoshop",
+   "Office",
+   "Python",
+   "Kindle",
+   "黑神话悟空",
+   "PPT模板",
+   "国家地理"
+  ],
+  "note": "离线样例数据，仅用于演示与上游不可用时的兜底；资源均来自第三方公开频道。"
+ },
+ "code": 0,
+ "message": "success",
+ "data": {
+  "total": 209,
+  "merged_by_type": {
+   "115": [
+    {
+     "url": "https://115cdn.com/s/swsmyd73h8c?password=vwvw",
+     "password": "vwvw",
+     "note": "肖申克的救赎(1994)【4K.REMUX UHD原盘】【国英双语】【内封简繁英双语特效字幕】",
+     "datetime": "2026-09-01T18:44:05Z",
+     "source": "tg:vip115hot"
+    },
+    {
+     "url": "https://115cdn.com/s/swfptyp3zrk?password=t58d",
+     "password": "t58d",
+     "note": "🎬 肖申克的救赎 (1994) ✨4K 💎REMUX 🔶HDR10 60.92 GB",
+     "datetime": "2026-03-30T08:26:29Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swfbdnu3zrk?password=t58d",
+     "password": "t58d",
+     "note": "🎬 电影｜肖申克的救赎 (1994) 2160p.REMUX.UHD Blu-ray.HDR10",
+     "datetime": "2026-01-21T16:12:42Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swfndze36i1?password=GWEB",
+     "password": "GWEB",
+     "note": "综艺｜一路繁花 (2025) 一路繁花 第2季 更新至24集 4K【37.45GB】️ 评分：6.0 类型：真人秀 地区：China 语言：普通话 主演：刘晓庆, 何赛飞, 刘嘉玲, 宁静, 张柏芝",
+     "datetime": "2025-12-12T09:07:19Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swf372m36i1?password=GWEB",
+     "password": "GWEB",
+     "note": "综艺｜一路繁花 (2025) 一路繁花 第2季 更新至21集 4K【32.48GB】️ 评分：6.0 类型：真人秀 地区：China 语言：普通话 主演：刘晓庆, 何赛飞, 刘嘉玲, 宁静, 张柏芝",
+     "datetime": "2025-12-05T06:21:55Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swwuicl3zfr?password=mca3",
+     "password": "mca3",
+     "note": "🐾 动漫｜鬼灭之刃 (2019) 补档：鬼滅の刃全系列 全球顶级高码压制 全系列【560.33G】",
+     "datetime": "2025-11-29T01:01:23Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swwubg83zfr?password=p1c7",
+     "password": "p1c7",
+     "note": "🐾 动漫｜鬼灭之刃 (2019) 鬼灭之刃全系列 全球顶级高码压制 全系列【560.33G】",
+     "datetime": "2025-11-28T06:58:49Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swwzvue3zzp?password=e077",
+     "password": "e077",
+     "note": "鬼灭之刃(五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻/动画】",
+     "datetime": "2025-11-23T14:13:45Z",
+     "source": "tg:vip115hot"
+    },
+    {
+     "url": "https://115cdn.com/s/sww0y6z36i1?password=GWEB",
+     "password": "GWEB",
+     "note": "综艺｜一路繁花 (2025) 第2季 更新至12集 4K【17.85GB】️ 评分：6.0 类型：真人秀 地区：China 语言：普通话 主演：刘晓庆, 何赛飞, 刘嘉玲, 宁静, 张柏芝",
+     "datetime": "2025-11-14T10:26:43Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/sww8phx3n90?password=a8b6",
+     "password": "a8b6",
+     "note": "名称: 进击的巨人",
+     "datetime": "2025-10-01T14:07:56Z",
+     "source": "tg:Lsp115"
+    },
+    {
+     "url": "https://115cdn.com/s/swwv10v3zs4?password=vba4",
+     "password": "vba4",
+     "note": "名称: 周杰伦地表最强演唱会歌曲合集带独立歌词",
+     "datetime": "2025-08-16T16:56:03Z",
+     "source": "tg:Lsp115"
+    },
+    {
+     "url": "https://115cdn.com/s/swwm6qp3zrk?password=t58d",
+     "password": "t58d",
+     "note": "🎬 电影｜流浪地球2 (2023) 2160P.Ultra HD BluRay Remux.DoVi.HDR 106.63G",
+     "datetime": "2025-07-31T09:16:07Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swwm6qr3zrk?password=k442",
+     "password": "k442",
+     "note": "🎬 电影｜流浪地球 (2019) 4K高码 TrueHD Atmos 73.3G",
+     "datetime": "2025-07-31T09:15:08Z",
+     "source": "tg:QukanMovie"
+    },
+    {
+     "url": "https://115cdn.com/s/swwk89s33dp?password=y372",
+     "password": "y372",
+     "note": "名称: [AI-Rwas]进击的巨人 全系列可刮削",
+     "datetime": "2025-07-23T15:35:03Z",
+     "source": "tg:Lsp115"
+    },
+    {
+     "url": "https://115cdn.com/s/swwybvp3zs4?password=g2b0",
+     "password": "g2b0",
+     "note": "名称: 周杰伦歌曲合集",
+     "datetime": "2025-07-13T05:14:00Z",
+     "source": "tg:Lsp115"
+    },
+    {
+     "url": "https://115.com/s/swhbjqa3zrk?password=8013",
+     "password": "8013",
+     "note": "流浪地球2：再次冒险 (2024) WEB-DL 2160p 2.11G",
+     "datetime": "2024-11-08T07:40:45Z",
+     "source": "tg:Channel_Shares_115"
+    },
+    {
+     "url": "https://115.com/s/swzuib333ap?password=8888",
+     "password": "8888",
+     "note": "黑神话悟空剧情",
+     "datetime": "2024-08-28T01:44:19Z",
+     "source": "tg:Lsp115"
+    },
+    {
+     "url": "https://115.com/s/swzjd703zrk?password=8023",
+     "password": "8023",
+     "note": "资源名称：周杰伦演唱会合集",
+     "datetime": "2024-07-31T06:20:36Z",
+     "source": "tg:Channel_Shares_115"
+    },
+    {
+     "url": "https://115.com/s/sw3r1pv33cg",
+     "password": "1111",
+     "note": "进击的巨人.全3季.1080P.中文字幕.19.23GB【动漫】",
+     "datetime": "2020-11-17T03:32:03Z",
+     "source": "tg:vip115hot"
+    }
+   ],
+   "123": [
+    {
+     "url": "https://123pan.com/s/7Tx1jv-JwP7v",
+     "password": "",
+     "note": "我的三体 (2014)",
+     "datetime": "2026-07-16T16:30:04Z",
+     "source": "tg:zyfb123"
+    },
+    {
+     "url": "https://123pan.com/s/7Tx1jv-JwP7v?pwd=xoxo",
+     "password": "xoxo",
+     "note": "我的三体 (2014)",
+     "datetime": "2026-07-16T16:30:04Z",
+     "source": "tg:zyfb123"
+    },
+    {
+     "url": "https://123pan.com/s/7Tx1jv-JwP7v?pwd=xoxo#",
+     "password": "xoxo",
+     "note": "🎬 我的三体 (2014)",
+     "datetime": "2026-07-15T17:04:03Z",
+     "source": "tg:xx123pan"
+    },
+    {
+     "url": "https://123865.com/s/RWJUVv-02Iq?pwd=ZY4K",
+     "password": "ZY4K",
+     "note": "🎬 流浪地球2 (2023)",
+     "datetime": "2026-03-10T13:38:24Z",
+     "source": "tg:xx123pan"
+    },
+    {
+     "url": "https://123865.com/s/RWJUVv-Z1Iq?pwd=ZY4K",
+     "password": "ZY4K",
+     "note": "🎬 流浪地球 (2019)",
+     "datetime": "2026-02-23T08:25:02Z",
+     "source": "tg:xx123pan"
+    },
+    {
+     "url": "https://123865.com/s/RWJUVv-02Iq?pwd=ZY4K#",
+     "password": "ZY4K",
+     "note": "🎬 流浪地球2 (2023)",
+     "datetime": "2026-02-23T08:24:20Z",
+     "source": "tg:xx123pan"
+    },
+    {
+     "url": "https://123pan.com/s/IpPUVv-HcDj",
+     "password": "",
+     "note": "肖申克的救赎 (1994）",
+     "datetime": "2025-11-15T13:00:58Z",
+     "source": "tg:zyfb123"
+    },
+    {
+     "url": "https://123pan.com/s/IpPUVv-HcDj?pwd=JZMM",
+     "password": "JZMM",
+     "note": "肖申克的救赎 (1994）",
+     "datetime": "2025-11-15T13:00:58Z",
+     "source": "tg:zyfb123"
+    },
+    {
+     "url": "https://123912.com/s/BDlovd-hXGOd?pwd=1wbD",
+     "password": "1wbD",
+     "note": "鬼灭之刃系列",
+     "datetime": "2025-10-14T03:01:05Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://123912.com/s/BDlovd-hXGOd",
+     "password": "",
+     "note": "鬼灭之刃系列",
+     "datetime": "2025-10-14T03:01:05Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://123pan.com/s/td2wvd-3hhQd",
+     "password": "",
+     "note": "繁花",
+     "datetime": "2025-09-25T15:30:27Z",
+     "source": "tg:zyfb123"
+    },
+    {
+     "url": "https://123pan.com/s/IpPUVv-hzRj?提取码:JZMM",
+     "password": "JZMM",
+     "note": "肖申克的救赎 4K原盘REMUX 国英双音 内封特效字幕",
+     "datetime": "2025-08-25T13:04:36Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://123865.com/s/IXmlVv-zJ3E3",
+     "password": "",
+     "note": "进击的巨人：完结篇 最后的进击",
+     "datetime": "2025-06-12T10:06:18Z",
+     "source": "tg:taoxgzy"
+    },
+    {
+     "url": "https://123865.com/s/IpPUVv-BDOj",
+     "password": "",
+     "note": "《进击的巨人》全系列完结【顶级4K典藏版】 4K超高码率 单集8G 附OVA合集 内嵌简日双语特效字幕",
+     "datetime": "2025-05-19T22:01:02Z",
+     "source": "tg:taoxgzy"
+    },
+    {
+     "url": "https://123912.com/s/IpPUVv-hgOj?提取码:JZMM",
+     "password": "JZMM",
+     "note": "《鬼灭之刃》全五季 1080p 蓝光原盘REMUX 内封简繁字幕",
+     "datetime": "2025-05-02T23:02:17Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://123912.com/s/TrBKTd-tiUHA",
+     "password": "",
+     "note": "周杰伦《周游记》两季全 1080P Netflix版 无广告 已刮削",
+     "datetime": "2025-03-10T10:05:56Z",
+     "source": "tg:taoxgzy"
+    },
+    {
+     "url": "https://123684.com/s/TcMcTd-lYWJ?提取码:JMYP",
+     "password": "JMYP",
+     "note": "《进击的巨人》全系列完结【Spade制作 顶级4K典藏版】 4K超高码率 单集8G 附OVA合集 内嵌简日双语特效字幕",
+     "datetime": "2025-03-05T23:27:03Z",
+     "source": "tg:xx123pan"
+    }
+   ],
+   "quark": [
+    {
+     "url": "https://pan.quark.cn/s/057f0f8e44d1",
+     "password": "",
+     "note": "「美国国家地理中文版杂志2024年度合集」",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/b33e921d0204",
+     "password": "",
+     "note": "「国家地理杂志美国版1888~2023合集珍藏版」",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/aa22ee8f0abd",
+     "password": "",
+     "note": "「《世界国家地理精华透过镜头书系》图说天下系列合集[pdf]」",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/ff88e205d12e",
+     "password": "",
+     "note": "亚马逊kindleebook大合集【已分类附目录】",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/538e0269c76d",
+     "password": "",
+     "note": "进击的巨人最终季 完结篇 前篇",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/c1dfb0d6ae51",
+     "password": "",
+     "note": "肖申克的救赎",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/cb432a843e5c",
+     "password": "",
+     "note": "繁花",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.quark.cn/s/b0e9af5d0412",
+     "password": "",
+     "note": "奥本海默",
+     "datetime": "2026-10-26T07:06:38Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/5d4a5683c88c",
+     "password": "",
+     "note": "三体修大闹西方魔法学院 (60集) | 短剧",
+     "datetime": "2026-10-21T15:41:47Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.quark.cn/s/918a42b9b50d",
+     "password": "",
+     "note": "奥本海默",
+     "datetime": "2026-10-15T01:00:22Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/6026c69b314f",
+     "password": "",
+     "note": "奥本海默",
+     "datetime": "2026-10-14T05:58:35Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/e707f4ac1314",
+     "password": "",
+     "note": "周杰伦出道至今所有歌曲音乐作品合集",
+     "datetime": "2026-09-09T12:37:04Z",
+     "source": "tg:FLMdongtianfudi"
+    },
+    {
+     "url": "https://pan.quark.cn/s/6a72caf0b34e",
+     "password": "",
+     "note": "🎬 ------肖申克的救赎 (1994) 4K/2160P简体字幕 杜比全景声",
+     "datetime": "2026-09-08T04:35:43Z",
+     "source": "tg:leoziyuan"
+    },
+    {
+     "url": "https://pan.quark.cn/s/43916cb99692",
+     "password": "",
+     "note": "流浪地球系列1+2 4K蓝光原盘+4K60fps双版本",
+     "datetime": "2026-08-24T18:00:26Z",
+     "source": "tg:tgbokee"
+    },
+    {
+     "url": "https://pan.quark.cn/s/6058484278e1",
+     "password": "",
+     "note": "我的三体 1-4季",
+     "datetime": "2026-08-12T01:58:13Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://pan.quark.cn/s/b474e50b82c0",
+     "password": "",
+     "note": "水彩风PPT模板合集",
+     "datetime": "2026-08-04T20:13:17Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/a1924438eeb0",
+     "password": "",
+     "note": "中国风古风类PPT模板合集",
+     "datetime": "2026-08-04T20:12:51Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/48ab698effec",
+     "password": "",
+     "note": "[素材模版分享]中国风古风类PPT模板合集",
+     "datetime": "2026-08-04T20:10:58Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.quark.cn/s/8ebb7bf9d1cb",
+     "password": "",
+     "note": "周杰伦出道至今所有歌曲音乐作品合集",
+     "datetime": "2026-07-31T16:33:20Z",
+     "source": "tg:FLMdongtianfudi"
+    },
+    {
+     "url": "https://pan.quark.cn/s/02f7c855e689066286",
+     "password": "",
+     "note": "-卸下枷锁见繁花 (30集)",
+     "datetime": "2026-07-29T16:10:12Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.quark.cn/s/02f7c855e689",
+     "password": "",
+     "note": "-卸下枷锁见繁花 (30集)",
+     "datetime": "2026-07-29T16:10:12Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.quark.cn/s/f503672f3846",
+     "password": "",
+     "note": "Kindle书库 电子书资源4w+余册TXT合集",
+     "datetime": "2026-07-27T04:07:32Z",
+     "source": "tg:tgbokee"
+    },
+    {
+     "url": "https://pan.quark.cn/s/2451746c94b8",
+     "password": "",
+     "note": "周杰伦出道至今所有歌曲音乐作品合集",
+     "datetime": "2026-07-05T13:01:27Z",
+     "source": "tg:FLMdongtianfudi"
+    },
+    {
+     "url": "https://pan.quark.cn/s/334310e1c46b",
+     "password": "",
+     "note": "流浪地球(两部合集)【蓝光4K.HDR】【国英双语】【内封简英双语字幕】",
+     "datetime": "2026-02-13T03:09:44Z",
+     "source": "tg:dianying4k"
+    },
+    {
+     "url": "https://pan.quark.cn/s/af81bedcda3a",
+     "password": "",
+     "note": "【精心整理合集】[1-4季+剧场版+SP+特别编集版+音乐会]（鬼灭之刃）鬼滅の刃(2019-2024)",
+     "datetime": "2025-12-29T15:12:14Z",
+     "source": "tg:MCPH03"
+    },
+    {
+     "url": "https://pan.quark.cn/s/758db134f6f2",
+     "password": "",
+     "note": "鬼灭之刃(五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻/动画】",
+     "datetime": "2025-11-23T14:13:45Z",
+     "source": "tg:vip115hot"
+    },
+    {
+     "url": "https://pan.quark.cn/s/05151bc41cec",
+     "password": "",
+     "note": "《黑神话悟空纯剧情CG动画合集》沉浸式体验西游神话，震撼视效与深度剧情完美结合，带你重温悟空传奇#黑神话悟空 #剧情CG #动作冒险 #Steam平台2025-08-11 17:52:34",
+     "datetime": "2025-08-11T09:52:30Z",
+     "source": "tg:bsbdbfjfjff"
+    },
+    {
+     "url": "https://pan.quark.cn/s/61dd67cf3171",
+     "password": "",
+     "note": "《进击的巨人系列合集》",
+     "datetime": "2025-06-16T01:30:05Z",
+     "source": "tg:bdbdndn11"
+    },
+    {
+     "url": "https://pan.quark.cn/s/094140bf746a",
+     "password": "",
+     "note": "流浪地球 1-2合集【4K蓝光原盘REMUX】 -无可",
+     "datetime": "2025-04-15T10:02:20Z",
+     "source": "tg:taoxgzy"
+    },
+    {
+     "url": "https://pan.quark.cn/s/3769fe312851",
+     "password": "",
+     "note": "【标题】：《进击的巨人合集》漫画[mobi]",
+     "datetime": "2025-04-11T14:22:41Z",
+     "source": "tg:gokuapan"
+    },
+    {
+     "url": "https://pan.quark.cn/s/85d46ebccc36",
+     "password": "",
+     "note": "《六样情《黑神话：悟空》章节动画原版合集(2024)[动画]超高清4K》",
+     "datetime": "2025-02-26T17:26:58Z",
+     "source": "tg:bdbdndn11"
+    },
+    {
+     "url": "https://pan.quark.cn/s/9a6609486bb4",
+     "password": "",
+     "note": "【标题】：千万书库Kindle合集48000余册TXT书籍合集",
+     "datetime": "2025-02-19T10:26:39Z",
+     "source": "tg:gotopan"
+    },
+    {
+     "url": "https://pan.quark.cn/s/3962ae00b18a",
+     "password": "",
+     "note": "《黑神话：悟空158 分钟 CG 完整剧情合集 4K120 帧最高画质 》",
+     "datetime": "2025-02-18T19:18:08Z",
+     "source": "tg:hdhhd21"
+    },
+    {
+     "url": "https://pan.quark.cn/s/f2ff013d74ea",
+     "password": "",
+     "note": "【标题】：PDF 漫画大合集90G (鬼灭之刃/金瓶梅/蜡笔小新游戏王/伊藤润二合集等）",
+     "datetime": "2025-01-27T02:57:57Z",
+     "source": "tg:gotopan"
+    },
+    {
+     "url": "https://pan.quark.cn/s/28187b162902",
+     "password": "",
+     "note": "标题：死屋手记 [﻿小说文学] [pdf+全格式]",
+     "datetime": "2025-01-03T11:22:33Z",
+     "source": "tg:BooksRealm"
+    },
+    {
+     "url": "https://pan.quark.cn/s/5df8b780e5cb",
+     "password": "",
+     "note": "我的三体",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    }
+   ],
+   "baidu": [
+    {
+     "url": "https://pan.baidu.com/s/1-7BU3vJef0ej_JhjEhxmIA?pwd=0303",
+     "password": "0303",
+     "note": "流浪地球",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.baidu.com/s/17GPC8z0iuYKhGLPTYC3yng?pwd=kick",
+     "password": "kick",
+     "note": "🗄 寇雅婷《繁花似锦HQⅡ》(2026) 头版限量编号 低速原抓WAV + CUE",
+     "datetime": "2026-10-25T04:16:09Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/14ClZbM3AtdWbw2QFgnpcNA?pwd=8888",
+     "password": "8888",
+     "note": "戈壁繁花 (145集) | 短剧",
+     "datetime": "2026-10-23T18:13:54Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1hed3NK2Acihjs1lzJCLIHA?pwd=8888",
+     "password": "8888",
+     "note": "三体修大闹西方魔法学院 (60集) | 短剧",
+     "datetime": "2026-10-21T15:41:47Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1SLyzHQlKP-uBjhjz3CVNNQ?pwd=qa9c",
+     "password": "qa9c",
+     "note": "2026年10月8日 短剧更新目录1",
+     "datetime": "2026-10-08T02:20:59Z",
+     "source": "tg:Baidu_netdisk"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1VpuBeAj5FP-KCRS_wJXJsw?pwd=2pny",
+     "password": "2pny",
+     "note": "2023-08《奥本海默传》",
+     "datetime": "2026-10-07T14:36:36Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.baidu.com/s/14e3Fxx9p4mpwrgcDMQkirw?pwd=zuny",
+     "password": "zuny",
+     "note": "🎬 ✅✅✅肖申克的救赎【4K HDR】【北影、央视、华纳三国配音轨】【中英字幕】",
+     "datetime": "2026-09-10T00:11:02Z",
+     "source": "tg:leoziyuan"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1lZYdGUZXGvoYX9eHHWZyMg?pwd=Yu88",
+     "password": "Yu88",
+     "note": "🗄 肖申克的救赎(1994)【4K.REMUX UHD原盘】【国英双语】【内封简繁英双语特效字幕】",
+     "datetime": "2026-09-08T13:52:40Z",
+     "source": "tg:leoziyuan"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1VRBHkJujHOGE_0gfn1xG9w?pwd=kick",
+     "password": "kick",
+     "note": "🗄 周杰伦《依然范特西》2026 环球日版SHM-CD  原抓WAV+CUE",
+     "datetime": "2026-09-07T04:46:12Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/10Nkj7MF0LrrH-pcxtfrLqQ?pwd=Yu66",
+     "password": "Yu66",
+     "note": "肖申克的救赎(1994)【4K.REMUX UHD原盘】【国英双语】【内封简繁英双语特效字幕】",
+     "datetime": "2026-09-01T18:55:45Z",
+     "source": "tg:tgbokee"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1iGFZkFXdZvT9E2YH4wFdPg?pwd=drg7",
+     "password": "drg7",
+     "note": "#电影🗄 鬼灭之刃：无限城篇 第一章 猗窝座再袭 劇場版（2026）4K高码.外挂官方简繁中字.2160p.WEB-DL.H.265.TrueHD.7.1.4.Atmos.mkv ( 41.1G )📜介绍：当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能训练——柱之训练时，鬼",
+     "datetime": "2026-07-28T17:21:18Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/10X9HFGaAYWvBs2B3TjI-wQ?pwd=vtp1",
+     "password": "vtp1",
+     "note": "短剧-进击的巨人之末日地堡（60集）",
+     "datetime": "2026-04-20T12:13:43Z",
+     "source": "tg:kduanju"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1hyLMs6LOUhfZl81H8_Ppvw?pwd=wt2w",
+     "password": "wt2w",
+     "note": "进击的巨人之末日地堡 (60集) Ai短剧 | 短剧",
+     "datetime": "2026-04-11T04:48:38Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1KX_CQsH57fHY7Gm59KQ5GA?pwd=mwbs",
+     "password": "mwbs",
+     "note": "短剧-进击的巨人之末日地堡（60集）Ai短剧",
+     "datetime": "2026-04-10T23:04:07Z",
+     "source": "tg:kduanju"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1WwJThL1GCWjDn2L4xLj_YQ?pwd=fe4c",
+     "password": "fe4c",
+     "note": "周杰伦新专辑《太阳之子》全部12首歌曲+MV",
+     "datetime": "2026-03-26T06:00:51Z",
+     "source": "tg:rjyxfx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1N_92btX8NSCfmiSHrsMppQ?pwd=6kiy",
+     "password": "6kiy",
+     "note": "流浪地球(两部合集)【蓝光4K.HDR】【国英双语】【内封简英双语字幕】",
+     "datetime": "2026-02-13T03:09:44Z",
+     "source": "tg:dianying4k"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1N_92btX8NSCfmiSHrsMppQ?pwd=Yu66",
+     "password": "Yu66",
+     "note": "🗄 流浪地球/流浪地球2(两部合集)【蓝光4K.HDR】【国英双语】【内封简英双语字幕】",
+     "datetime": "2026-01-15T09:19:14Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1LZYh4MJ8rUQSIIysPNBQ5g?pwd=MCPH",
+     "password": "MCPH",
+     "note": "【精心整理合集】[1-4季+剧场版+SP+特别编集版+音乐会]（鬼灭之刃）鬼滅の刃(2019-2024)",
+     "datetime": "2025-12-29T15:12:14Z",
+     "source": "tg:MCPH03"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1oTTw9NA5_4OZU1ybjtpq7g?pwd=hyw7",
+     "password": "hyw7",
+     "note": "美国国家地理《世界经典神话传说系列 Treasury of (电子书+MP3)》",
+     "datetime": "2025-12-13T14:05:29Z",
+     "source": "tg:FLMdongtianfudi"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1th_d8QXpROsq_RwPMfLH0g?pwd=Yu66",
+     "password": "Yu66",
+     "note": "鬼灭之刃(五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻/动画】",
+     "datetime": "2025-11-23T14:13:45Z",
+     "source": "tg:vip115hot"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1nh-ocuazOrCit-1iHTzJJA?pwd=kzs2",
+     "password": "kzs2",
+     "note": "无损音乐：周杰伦 - 2003年SACD系列 - 叶惠美   DFF格式",
+     "datetime": "2025-11-04T06:08:08Z",
+     "source": "tg:QuarkFree"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1DFKX3w-tjKzGXAjOPcDsmQ?pwd=xsuq",
+     "password": "xsuq",
+     "note": "[奥本海默][2023][外挂双语字幕][4K HDR][22G]",
+     "datetime": "2025-07-16T11:37:45Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1mbAtVp_SZ_8DeuRPfGeqlw?pwd=nry7",
+     "password": "nry7",
+     "note": "[奥本海默][2023][外挂双语字幕][4K HDR][21.5G]",
+     "datetime": "2025-07-07T05:16:22Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1eYWM5Bjt4J2lwiKkRpBl1w?pwd=kick",
+     "password": "kick",
+     "note": "黑神话悟空游戏原声音乐  四版 FLAC",
+     "datetime": "2025-05-29T00:45:25Z",
+     "source": "tg:bdwpzhpd"
+    },
+    {
+     "url": "https://pan.baidu.com/s/1etZdVXAv3tJBuk42BpmujA?pwd=hvdw",
+     "password": "hvdw",
+     "note": "资源名称：三体 (2024)✨【美版】【4K】【高码】【双语配音】【最后补档】",
+     "datetime": "2024-06-10T10:34:00Z",
+     "source": "tg:Q66Share"
+    }
+   ],
+   "tianyi": [
+    {
+     "url": "https://cloud.189.cn/t/quaeQfqIj2i2",
+     "password": "",
+     "note": "一路繁花 (2025)S01+S00 4K EDR 内嵌简中@乱七八糟 HiveWeb",
+     "datetime": "2026-03-24T06:11:10Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/UfuaUnBbM7vm",
+     "password": "",
+     "note": "鬼灭之刃剧场版：前往刀匠村 (2023)",
+     "datetime": "2025-11-16T14:38:46Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/j6Vr22ziEnEn",
+     "password": "",
+     "note": "鬼灭之刃剧场版：无限列车篇 (2020)",
+     "datetime": "2025-11-16T14:23:31Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/2qyyM3iQFJRj",
+     "password": "",
+     "note": "鬼灭之刃剧场版：无限列车篇 (2020)",
+     "datetime": "2025-11-16T14:21:54Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/JNjQZfb6N73q",
+     "password": "",
+     "note": "流浪地球（系列）",
+     "datetime": "2025-08-08T11:55:03Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/UVfMFje2IRRn",
+     "password": "",
+     "note": "周杰伦 合集 - AppleMusic ALAC 46张专辑（含演唱会Live）",
+     "datetime": "2025-07-24T08:33:36Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/J7ziMjRZvEvq",
+     "password": "",
+     "note": "周杰伦：地表最强世界巡回演唱会 (2016) 1080P BluRay［内封简繁中字］",
+     "datetime": "2025-07-08T15:39:58Z",
+     "source": "tg:tyypzhpd"
+    },
+    {
+     "url": "https://cloud.189.cn/t/vANJvyJjYFzq",
+     "password": "",
+     "note": "流浪地球［系列］4K原盘REMUX［内封简中 简英双语字幕］",
+     "datetime": "2025-05-31T12:03:55Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://cloud.189.cn/t/veQniuIRBvqu",
+     "password": "",
+     "note": "流浪地球2 (2023) 高码率收藏版 4K原盘REMUX 杜比视界",
+     "datetime": "2025-04-07T22:02:33Z",
+     "source": "tg:taoxgzy"
+    },
+    {
+     "url": "https://cloud.189.cn/t/yUZ7Vb77vQf2",
+     "password": "",
+     "note": "2024年IMDb 评分最高250部电影更新计划【001-010】【4K高码洗版】【466.70G】",
+     "datetime": "2024-12-28T11:50:05Z",
+     "source": "tg:yydf_hzl"
+    }
+   ],
+   "xunlei": [
+    {
+     "url": "https://pan.xunlei.com/s/VOxhjK6E24WRi_4nhyUsvIIFA1?pwd=kp78",
+     "password": "kp78",
+     "note": "进击的巨人 1-4季 [动画/电影]",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOM6x8MHHtgQIM0qfMku5aVuA1?pwd=t27z",
+     "password": "t27z",
+     "note": "进击的巨人最终季Part.2",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VO49JOKKnzErX-39y2fCTjsuA1?pwd=nf6y",
+     "password": "nf6y",
+     "note": "进击的巨人最终季 完结篇 后篇",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP1riY4_zkvzF76ojEdlNzHOA1?pwd=svti",
+     "password": "svti",
+     "note": "肖申克的救赎",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOFXBxpnIi-Sd6ON4pSviNq-A1?pwd=guby",
+     "password": "guby",
+     "note": "繁花",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOMULTR8gEsLegm6oGnVj4BqA1?pwd=6exf",
+     "password": "6exf",
+     "note": "流浪地球2",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP3z6P-mr-IZUhykv94hYes8A1?pwd=ufjd",
+     "password": "ufjd",
+     "note": "[夸克网盘][迅雷云盘]国内电影 科幻 / 冒险 / 灾难《流浪地球》（1-2部）（2019-2023）",
+     "datetime": "2026-10-15T18:31:24+08:00",
+     "source": "plugin:mizixing"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP3ZwRp8UbNXTyBRNnrHKDZVA1",
+     "password": "",
+     "note": "2023-08《奥本海默传》",
+     "datetime": "2026-10-08T11:14:03Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP3ZwR9e6aFVE6YdezPt45k-A1",
+     "password": "",
+     "note": "2023-08《奥本海默传》",
+     "datetime": "2026-10-08T11:14:03Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP3ZwQbqBHWoSkWQ9pzZ7IvuA1",
+     "password": "",
+     "note": "2023-08《奥本海默传》",
+     "datetime": "2026-10-08T11:14:03Z",
+     "source": "plugin:melost"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP1UBaKbdzQu0i4",
+     "password": "",
+     "note": "不能说的秘密(2007)【1080p 原盘REMUX】【内封简繁英双语字幕】【周杰伦/桂纶镁】",
+     "datetime": "2026-09-14T14:30:22Z",
+     "source": "tg:dianying4k"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VP1UBaKbdzQu0i4_K7VDl5_EA1?pwd=p74c",
+     "password": "p74c",
+     "note": "不能说的秘密(2007)【1080p 原盘REMUX】【内封简繁英双语字幕】【周杰伦/桂纶镁】",
+     "datetime": "2026-09-14T14:30:22Z",
+     "source": "tg:dianying4k"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOzKWQUX3Ke",
+     "password": "",
+     "note": "🎬 ------肖申克的救赎 (1994) 4K/2160P简体字幕 杜比全景声",
+     "datetime": "2026-09-08T04:35:53Z",
+     "source": "tg:leoziyuan"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOzKWQUX3Ke-3K1HcKTnrrV6A1?pwd=gygp#",
+     "password": "gygp",
+     "note": "🎬 ------肖申克的救赎 (1994) 4K/2160P简体字幕 杜比全景声",
+     "datetime": "2026-09-08T04:35:53Z",
+     "source": "tg:leoziyuan"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOfeEubAtnvSGbvf7cW1otHnA1?pwd=6kiy",
+     "password": "6kiy",
+     "note": "流浪地球(两部合集)【蓝光4K.HDR】【国英双语】【内封简英双语字幕】",
+     "datetime": "2026-02-13T03:09:44Z",
+     "source": "tg:dianying4k"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOeK8vkD9f2QeldiSymk4SFKA1?pwd=r62e",
+     "password": "r62e",
+     "note": "鬼灭之刃(五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻/动画】",
+     "datetime": "2025-11-23T14:13:45Z",
+     "source": "tg:vip115hot"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOZIJacACkzDGE8",
+     "password": "",
+     "note": "【标题】：【豆5.0分】石榴树上结樱桃-2012年剧情片【",
+     "datetime": "2025-09-07T05:39:51Z",
+     "source": "tg:gotopan"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOZ1haqEGLEKAYnx4mOvnQKmA1?pwd=etx4#",
+     "password": "etx4",
+     "note": "【标题】：【豆8.7分】周杰伦2016地表最强世界巡回演唱会-2016年音乐片",
+     "datetime": "2025-09-04T00:35:09Z",
+     "source": "tg:gotopan"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOZ3KE4cTfvo2IWAZ-3gUI4pA1?pwd=f743#",
+     "password": "f743",
+     "note": "《把生活过成一树繁花》（epub）",
+     "datetime": "2025-09-01T08:12:58Z",
+     "source": "tg:KaiPanshare"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOTRqpJdz5QSkr",
+     "password": "",
+     "note": "鬼灭之刃 (五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻 / 动画】",
+     "datetime": "2025-07-28T06:02:59Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOTRqpJdz5QSkr--y_7WiAtOA1?pwd=ubw5#",
+     "password": "ubw5",
+     "note": "鬼灭之刃 (五季合集)【蓝光原盘 REMUX】【内封简繁字幕】【奇幻 / 动画】",
+     "datetime": "2025-07-28T06:02:59Z",
+     "source": "tg:yydf_hzl"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOShMFVJ4tKmZhuiBEI7W5_cA1?pwd=b48v#",
+     "password": "b48v",
+     "note": "【安卓游戏】:黑神话悟空5.0  82 电脑版 手机版",
+     "datetime": "2025-06-14T07:38:15Z",
+     "source": "tg:rjyxfx"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOSKF8TG9XsyomC6FTO--ZiEA1?pwd=nqrd#",
+     "password": "nqrd",
+     "note": "【安卓游戏】: 黑神话悟空",
+     "datetime": "2025-06-09T15:15:41Z",
+     "source": "tg:rjyxfx"
+    },
+    {
+     "url": "https://pan.xunlei.com/s/VOSExkARCK34pYSl4nk2QzxNA1?pwd=kswm#",
+     "password": "kswm",
+     "note": "⭐️【资源名称】: 黑神话悟空",
+     "datetime": "2025-06-08T16:16:27Z",
+     "source": "tg:QQZYDAPP"
+    }
+   ],
+   "magnet": [
+    {
+     "url": "magnet:?xt=urn:btih:3629CA3394D5B0D2086BEE1FD5392CA5057BEC6F",
+     "password": "",
+     "note": "终结一切战争：奥本海默和原子弹-To End All War Oppenheimer The Atomic Bomb (2023) [1080p] [BluRay] [YTS.MX][1.4G]",
+     "datetime": "2026-02-01T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:5B3337D18375D7059EB33C5DF1A3AF45A2C8C277",
+     "password": "",
+     "note": "终结一切战争：奥本海默和原子弹-To End All War Oppenheimer The Atomic Bomb (2023) [1080p] [WEBRip] [x265] [10bit] [5.1] [YTS.MX][1.4G]",
+     "datetime": "2026-02-01T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:8EC00E3A9A6E4A8124C99951DBC06E74C8E478C2",
+     "password": "",
+     "note": "终结一切战争：奥本海默和原子弹-To End All War Oppenheimer The Atomic Bomb (2023) [1080p] [WEBRip] [5.1] [YTS.MX][1.6G]",
+     "datetime": "2026-02-01T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:7D73B5EA9CC30E880F0B9ACCCC357B0AC00AAF71",
+     "password": "",
+     "note": "肖申克的救赎-The.Shawshank.Redemption.1994.REMASTERED.1080p.BluRay.x265-RARBG[2.2G]",
+     "datetime": "2025-10-24T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:6B7AC0F0C9FF4895113C9863093784A7038554C4",
+     "password": "",
+     "note": "肖申克的救赎-The.Shawshank.Redemption.1994.1080p.BluRay.DDP.5.1.x265-EDGE2020.mkv[3.8G]",
+     "datetime": "2025-10-24T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:E25694CC3C1C9409787921277C2BCE83F94A8DC0",
+     "password": "",
+     "note": "肖申克的救赎-The.Shawshank.Redemption.1994.1080p.NF.WEB-DL.DDP5.1.x264-OzONE.mkv[8.0G]",
+     "datetime": "2025-10-24T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:6C002571948D36AEF2EB4807522B16D1867DF038",
+     "password": "",
+     "note": "鬼灭之刃 柱训练篇-[织梦字幕组] 鬼灭之刃 柱训练篇 Kimetsu no Yaiba S05 [合集] [01-08] [HEVC-10bit 1080P] [简日双语][8.5G]",
+     "datetime": "2025-08-23T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:0E27342E9393A3109391EA8762A86C85671E7197",
+     "password": "",
+     "note": "繁花-Blossoms.2023.EP01-30.HD1080P.X264.AAC.Mandarin.CHS.BDYS[17.6G]",
+     "datetime": "2025-04-03T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:FD803CD7528DE71B84F5A716CF7B19DF6EE5056C",
+     "password": "",
+     "note": "繁花-繁花[全30集][沪语+普通话+中文字幕].Blossoms.Shanghai.S01.2023.2160p.WEB-DL.H265.DDP2.0.2Audio-SeeWEB[45.6G]",
+     "datetime": "2025-04-03T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:C5BDB7DE00AF2596CA6543F7986F028DE13CE87F",
+     "password": "",
+     "note": "繁花-繁花[全30集][国语配音+中文字幕].Blossoms.Shanghai.S01.2023.1080p.WEB-DL.H265.AAC-ZeroTV[10.7G]",
+     "datetime": "2025-04-03T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:131FD5FAD17D127683D76F2CFAD43611FFB0FEF2",
+     "password": "",
+     "note": "流浪地球2：再次冒险-l浪d球2：z次m险.2024.HD1080p.国语中字.mp4[970M]",
+     "datetime": "2024-11-16T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:a284144b66716bf424d705719c63464ec77116ca",
+     "password": "",
+     "note": "三体 第一季-3.Body.Problem.S01.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX[16.91G]",
+     "datetime": "2024-03-22T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:e797fe3be07c17a60fae0b8e2f278d0389aa2391",
+     "password": "",
+     "note": "三体 第一季-3.Body.Problem.S01.COMPLETE.1080p.NF.WEB.H264-StereotypedGazelleOfWondrousPassion[TGx][16.91G]",
+     "datetime": "2024-03-22T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:655A09A1194BA04706A5A0938D003C22D11DE324",
+     "password": "",
+     "note": "鬼灭之刃 锻刀村篇-鬼灭之刃 刀匠村篇 _ Kimetsu no Yaiba [45-55 精校合集][WebRip 1080p HEVC-10bit AAC][简繁外挂字幕][Fin][10.1G]",
+     "datetime": "2024-02-18T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:5953ad5284d10d48edb2a3f0b2e665b082d16959",
+     "password": "",
+     "note": "流浪地球2-The.Wandering.Earth.Ⅱ.2023.1080p.WEB-DL.H265.DDP5.1-DreamHD[3.48G]",
+     "datetime": "2023-12-30T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:68354beff0ca53f082e424f2559f20aa939e5354",
+     "password": "",
+     "note": "流浪地球2-The.Wandering.Earth.II.2023.CHINESE.ENSUBBED.1080p.WEBRip.AAC2.0.x264-HHWEB[2.38G]",
+     "datetime": "2023-12-30T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:BA5E60FF8511E63D5F287FA948D3FD4BCFA31223",
+     "password": "",
+     "note": "进击的巨人 最终季 完结篇 前篇-[Lilith-Raws] 進擊的巨人 _ Shingeki no Kyojin - The Final Season - 29 [Baha][WEB-DL][1080p][AVC AAC][CHT][MP4][1.55G]",
+     "datetime": "2023-11-09T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:F69A4C83096253203570139B321773CA86C1374F",
+     "password": "",
+     "note": "进击的巨人 最终季 完结篇 后篇-进击的巨人 最终季 完结篇 后篇[中文字幕].完结篇.后篇].Attack.on.Titan.The.Final.Season.The.Final.Chapters.Part.2.2023.1080p.LINETV.WEB-DL.AVC.AAC-NukeHD[2.9",
+     "datetime": "2023-11-09T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:F1BB86B068F8346A92AC57DD5264A4212FEB9C1D",
+     "password": "",
+     "note": "进击的巨人 第一季-进击的巨人[全25集][中文字幕].Attack.on.Titan.2013.S01.Complete.1080p.NF.WEB-DL.x264.DDP2.0-Huawei[11.8G]",
+     "datetime": "2023-07-19T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:9650885659c47ab5d1cf712e52e4926a573797dd",
+     "password": "",
+     "note": "三体-Three-Body.S01.CHINESE.1080p.VIKI.WEBRip.AAC2.0.x264-SMURF[rartv][16.19G]",
+     "datetime": "2023-03-30T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:29CFAA0AC87F84B654535264C1631A6B5CCEF36C",
+     "password": "",
+     "note": "鬼灭之刃 游郭篇-[豌豆字幕组&风之圣殿字幕组][鬼灭之刃 _ Kimetsu_no_Yaiba][01-44(S1 S2)][合集][简体][1080P][MP4][21.7G]",
+     "datetime": "2023-03-21T00:00:00Z",
+     "source": "plugin:clxiong"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:c4a07e300d74f115245ddc3255a480b9fa4c9aa2&dn=%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%2FThe%20Invincible%20Concert%20Tour%20-%20%E5%91%A8%E6%9D%B0%E4%BC%A6%28Jay%20Chou%29%20%5BFLAC%2048kHz%2024bit%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+     "password": "",
+     "note": "地表最强世界巡回演唱会/The Invincible Concert Tour - 周杰伦(Jay Chou) [FLAC 48kHz 24bit]",
+     "datetime": "2022-05-20T23:19:11+08:00",
+     "source": "plugin:nyaa"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:92e0660d02dea93e5d4686b59eb6893b99b3282a&dn=%E9%AD%94%E5%A4%A9%E4%BC%A6%E4%B8%96%E7%95%8C%E5%B7%A1%E5%9B%9E%E6%BC%94%E5%94%B1%E4%BC%9A%20%2F%20Opus%20Jay%20World%20Tour%20-%20%E5%91%A8%E6%9D%B0%E4%BC%A6%28Jay%20Chou%29%20%5BFLAC%2048kHz%2024bit%5D&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+     "password": "",
+     "note": "魔天伦世界巡回演唱会 / Opus Jay World Tour - 周杰伦(Jay Chou) [FLAC 48kHz 24bit]",
+     "datetime": "2022-05-20T23:16:05+08:00",
+     "source": "plugin:nyaa"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:e8c5e266749e0a12a1634176de600516d9152d24&dn=Haganai%2C%20I%20Don%27t%20Have%20Many%20Friends%20v17%20-%2018%20kindle&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+     "password": "",
+     "note": "Haganai, I Don't Have Many Friends v17 - 18 kindle",
+     "datetime": "2021-01-22T09:17:52+08:00",
+     "source": "plugin:nyaa"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:15ada96de4115f437ab47e784dd03f5181b6592d&dn=The%20World%20God%20Only%20Knows%20Complete%20%28Kindle%2FMOBI%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+     "password": "",
+     "note": "The World God Only Knows Complete (Kindle/MOBI)",
+     "datetime": "2014-04-23T20:02:00+08:00",
+     "source": "plugin:nyaa"
+    },
+    {
+     "url": "magnet:?xt=urn:btih:9c6eb571e6843d8084c38393b696bd363e42562c&dn=Girl%20Friends%20Vol.%201-5%20Complete%20Collection%20%28Kindle%2C%20.mobi%29&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce",
+     "password": "",
+     "note": "Girl Friends Vol. 1-5 Complete Collection (Kindle, .mobi)",
+     "datetime": "2013-09-30T13:00:00+08:00",
+     "source": "plugin:nyaa"
+    }
+   ],
+   "aliyun": [
+    {
+     "url": "https://www.aliyundrive.com/s/hHmwj8gDHr3",
+     "password": "",
+     "note": "鬼灭之刃无限列车篇",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/E2RZu3LtaDM",
+     "password": "",
+     "note": "进击的巨人最终季 完结篇 后篇",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/owEQGEBWTex",
+     "password": "",
+     "note": "进击的巨人最终季 完结篇 前篇",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/NohHWN76HvR",
+     "password": "",
+     "note": "流浪地球",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/qPkPCAqA2XZ",
+     "password": "",
+     "note": "流浪地球2",
+     "datetime": "2026-11-02T00:00:00Z",
+     "source": "plugin:xiaozhang"
+    },
+    {
+     "url": "https://www.alipan.com/s/SF8ruYdWe6M",
+     "password": "",
+     "note": "2026年10月8日 短剧更新目录1",
+     "datetime": "2026-10-08T02:20:58Z",
+     "source": "tg:Aliyun_4K_Movies"
+    },
+    {
+     "url": "https://www.alipan.com/s/5JnzcFFWa6Y",
+     "password": "",
+     "note": "2026年8月16日 短剧更新目录1",
+     "datetime": "2026-08-16T03:44:55Z",
+     "source": "tg:Aliyun_4K_Movies"
+    },
+    {
+     "url": "https://www.alipan.com/s/2vz1mn2x6ZR",
+     "password": "",
+     "note": "万众瞩目！周杰伦「太阳之子」新MV +预告片",
+     "datetime": "2026-03-24T07:31:57Z",
+     "source": "tg:Aliyun_4K_Movies"
+    },
+    {
+     "url": "https://www.alipan.com/s/CpqHzLVcGjc",
+     "password": "",
+     "note": "周杰伦演唱会合集（2004-2016）高码率 多声道",
+     "datetime": "2024-08-22T06:47:09Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.alipan.com/s/MkYJXTqouyV",
+     "password": "",
+     "note": "鬼灭之刃（全63集）",
+     "datetime": "2024-08-19T04:06:39Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.alipan.com/s/866gfitLf1N",
+     "password": "",
+     "note": "资源名称：鬼灭之刃 柱训练篇 S05 (2024) 1080p 高码率 内封简 / 繁 / 英 / 港繁  S05完结【内附全季&剧场版&漫画】",
+     "datetime": "2024-07-01T13:31:18Z",
+     "source": "tg:Q66Share"
+    },
+    {
+     "url": "https://www.alipan.com/s/F8XUH9wAc6h",
+     "password": "",
+     "note": "肖申克的救赎（1994）",
+     "datetime": "2024-06-30T09:06:47Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.alipan.com/s/kzxDmBMZmKU",
+     "password": "",
+     "note": "哲学的二十个夜晚 | 电子书 [ pdf | epub | mobi ]",
+     "datetime": "2024-06-09T02:45:25Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.alipan.com/s/8dXfiz7xxU5",
+     "password": "",
+     "note": "周杰伦Jay Hi-Res 无损专辑合集",
+     "datetime": "2024-06-06T05:20:52Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.alipan.com/s/oqcCEqvAhoz",
+     "password": "",
+     "note": "资源名称：繁花 (2023) 4K 纯净版 普通话+沪语双杜比音轨   胡歌 / 马伊琍 / 唐嫣  【30集完结】资源",
+     "datetime": "2024-01-09T12:35:40Z",
+     "source": "tg:Q66Share"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/f9FKmt8CWsx",
+     "password": "",
+     "note": "资源名称：进击的巨人 最终季 完结篇 后篇 (2023) 1080p WEB最高档码率 DDP2.0 杜比音效 内封简繁英 【附合集】",
+     "datetime": "2023-11-06T08:21:26Z",
+     "source": "tg:Q66Share"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/H7Y4J8EkrTo",
+     "password": "",
+     "note": "资源名称：流浪地球2 1080p / 高码 & 4K / 高码 [MKV封装] [附第一部1080p蓝光 & 4K HDR] 【易失效】",
+     "datetime": "2023-04-14T13:07:06Z",
+     "source": "tg:Q66Share"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/z8zvRJyQUvK",
+     "password": "",
+     "note": "各平台网络小说kindle电子书大合集",
+     "datetime": "2022-10-14T13:10:22Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/C2WaHFwnGwR",
+     "password": "",
+     "note": "6寸kindle电子书pdf版合集",
+     "datetime": "2022-08-29T03:16:07Z",
+     "source": "tg:shareAliyun"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/wYrrqnsCN7r",
+     "password": "",
+     "note": "肖申克的救赎",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    },
+    {
+     "url": "https://www.alipan.com/s/KsnHinF22tu/folder/6604c6b87bfa247594cc41ed9dc7b34bbdeeb342",
+     "password": "",
+     "note": "三体（美版）",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    },
+    {
+     "url": "https://www.alipan.com/s/1MveSX5WTux",
+     "password": "",
+     "note": "三体 动画版",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    },
+    {
+     "url": "https://www.aliyundrive.com/s/u2zg3qcUrpS三体2023",
+     "password": "",
+     "note": "三体2023",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    }
+   ],
+   "pikpak": [
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:D78E8EEC4BA2EFBA2A08E1759EA0DE8839E8D5AC&amp;source=pptg&amp;__campaign=D78E8EEC4BA2EFBA2A08E1759EA0DE8839E8D5AC",
+     "password": "",
+     "note": "资源名称：三体 / 3体 / Three-Body",
+     "datetime": "2024-03-22T08:44:25Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:E797FE3BE07C17A60FAE0B8E2F278D0389AA2391&amp;source=pptg&amp;__campaign=E797FE3BE07C17A60FAE0B8E2F278D0389AA2391",
+     "password": "",
+     "note": "资源名称：网飞三体",
+     "datetime": "2024-03-22T07:41:06Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:CBA2719B56A69435A5F8A7265FA6D0E9B20088A7&amp;source=pptg&amp;__campaign=CBA2719B56A69435A5F8A7265FA6D0E9B20088A7",
+     "password": "",
+     "note": "资源名称：[流浪地球2][意大利版原盘 全景声国语 DIY官译简繁字幕][The Wandering Earth II 2023 2160p ITA UHD Blu-ray HEVC Atmos TrueHD7.1-DiY@][89.73GB].iso",
+     "datetime": "2024-03-05T06:28:00Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:BCA18EDC5B71C666EA8E10E5B4384CA10F2D8B5B&amp;source=pptg&amp;__campaign=BCA18EDC5B71C666EA8E10E5B4384CA10F2D8B5B",
+     "password": "",
+     "note": "资源名称：[流浪地球2 2023][英版原盘 DIY官译简繁英双语字幕].",
+     "datetime": "2023-12-18T02:59:39Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:XALOBISECYDFNUTI426XL3HKOOEJBP6N&amp;source=pptg&amp;__campaign=XALOBISECYDFNUTI426XL3HKOOEJBP6N",
+     "password": "",
+     "note": "资源名称：[BDMV] [Vol.1-2 Fin]进击的巨人第二季/Shingeki no Kyojin Season 2/進撃の巨人 Season 2",
+     "datetime": "2021-11-25T12:53:09Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:42I2JNRXVKNPJ2ZMKZ36OVYMKNIDDEB6&amp;source=pptg&amp;__campaign=42I2JNRXVKNPJ2ZMKZ36OVYMKNIDDEB6",
+     "password": "",
+     "note": "资源名称：[BDMV] [Vol.1-11 Fin] 鬼灭之刃/Kimetsu no Yaiba/鬼滅の刃",
+     "datetime": "2021-11-25T12:52:58Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__source=zy0013",
+     "password": "",
+     "note": "资源名称：The Shawshank Redemption",
+     "datetime": "2021-11-22T02:52:46Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:6bb79ff053e9da5521ef6638214e9b44c6f9a667&amp;source=pptg&amp;__campaign=6bb79ff053e9da5521ef6638214e9b44c6f9a667",
+     "password": "",
+     "note": "资源名称：The Shawshank Redemption",
+     "datetime": "2021-11-22T02:52:46Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:582fc386d0087dcefe998b70d0bc6794c361e603&amp;source=pptg&amp;__campaign=582fc386d0087dcefe998b70d0bc6794c361e603",
+     "password": "",
+     "note": "资源名称：[刘慈欣作品全集][三体+球状闪电+乡村教师+流浪地球+超新星纪元+全频带阻塞干扰+……]",
+     "datetime": "2021-10-09T09:17:17Z",
+     "source": "tg:PikPak_Share_Channel"
+    },
+    {
+     "url": "https://toapp.mypikpak.com/toapp?__add_url=magnet:?xt=urn:btih:D4D4N25ULIGDKIKDYN4ZCKBESDC2LWAG&amp;source=pptg&amp;__campaign=D4D4N25ULIGDKIKDYN4ZCKBESDC2LWAG",
+     "password": "",
+     "note": "资源名称：剧场版 鬼灭之刃 无限列车篇 Kimetsu no Yaiba Mugen Ressha Hen [BD 1920x1080 x264 FLACx3 DTS-HDMA]",
+     "datetime": "2021-10-08T05:35:21Z",
+     "source": "tg:PikPak_Share_Channel"
+    }
+   ],
+   "uc": [
+    {
+     "url": "https://drive.uc.cn/s/4dc6aad07b534",
+     "password": "",
+     "note": "三体修大闹西方魔法学院 (60集) | 短剧",
+     "datetime": "2026-10-21T15:41:47Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://drive.uc.cn/s/331b613be2794",
+     "password": "",
+     "note": "#电影🗄 鬼灭之刃：无限城篇 第一章 猗窝座再袭 劇場版（2026）NF日英双语音轨+CR内封官方简繁英多国字幕.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs.mkv ( 14.7G )📜介绍：当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能",
+     "datetime": "2026-07-28T16:25:43Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://drive.uc.cn/s/aa869cacd3a24",
+     "password": "",
+     "note": "#电影🗄 鬼灭之刃：无限城篇 第一章 猗窝座再袭 劇場版（2026）NF日英双语音轨+CR内封官方简繁英多国字幕.1080p.CR.WEB-DL.DUAL.AAC2.0.H.264.MSubs.mkv ( 14.7G )📜介绍：当鬼杀队的成员和柱之人在为即将到来的与鬼的战斗做准备，完成共同的体能",
+     "datetime": "2026-07-28T16:25:39Z",
+     "source": "tg:yunpanx"
+    },
+    {
+     "url": "https://drive.uc.cn/s/d8f558f9f56b4",
+     "password": "",
+     "note": "进击的巨人之末日地堡 (60集) Ai短剧 | 短剧",
+     "datetime": "2026-04-11T04:48:38Z",
+     "source": "tg:yoyokuakeduanju"
+    },
+    {
+     "url": "https://drive.uc.cn/s/292ff1affa854",
+     "password": "",
+     "note": "鬼灭之刃：无限城篇 第一章 猗窝座再袭(2025)【WEB-DL.1080p】【内嵌简中】【动画/奇幻】",
+     "datetime": "2025-12-30T13:22:18Z",
+     "source": "tg:ucquark"
+    },
+    {
+     "url": "https://drive.uc.cn/s/9eac25f090784",
+     "password": "",
+     "note": "【安卓游戏】: 黑神话悟空",
+     "datetime": "2025-06-09T15:15:41Z",
+     "source": "tg:rjyxfx"
+    },
+    {
+     "url": "https://drive.uc.cn/s/0d54e71a8b4c4?public=1",
+     "password": "",
+     "note": "⭐️【资源名称】: 黑神话悟空",
+     "datetime": "2025-06-08T16:16:27Z",
+     "source": "tg:QQZYDAPP"
+    },
+    {
+     "url": "https://drive.uc.cn/s/4706d9b4c3374?public=1",
+     "password": "",
+     "note": "2025.4.10最新短剧合集总链目录4",
+     "datetime": "2025-04-11T12:03:15Z",
+     "source": "tg:yunpanuc"
+    },
+    {
+     "url": "https://drive.uc.cn/s/f5333c6aa75f4?public=1",
+     "password": "",
+     "note": "2025.3.31最新短剧合集总链目录1",
+     "datetime": "2025-03-31T07:07:12Z",
+     "source": "tg:yunpanuc"
+    },
+    {
+     "url": "https://drive.uc.cn/s/9c8c979d65d24?public=1",
+     "password": "",
+     "note": "2025.3.30最新短剧合集总链目录2",
+     "datetime": "2025-03-30T15:58:21Z",
+     "source": "tg:yunpanuc"
+    },
+    {
+     "url": "https://drive.uc.cn/s/83130c68e0de4",
+     "password": "",
+     "note": "像素版黑神话悟空「内置辅助」下载",
+     "datetime": "2025-03-02T13:08:18Z",
+     "source": "tg:rjyxfx"
+    },
+    {
+     "url": "https://drive.uc.cn/s/5efcf20a9b954?public=1",
+     "password": "",
+     "note": "肖申克的救赎",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:shandian"
+    },
+    {
+     "url": "https://drive.uc.cn/s/638b24f816d84?public=1",
+     "password": "",
+     "note": "三体（美版）",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    },
+    {
+     "url": "https://drive.uc.cn/s/b4e8657f73814?public=1",
+     "password": "",
+     "note": "我的三体",
+     "datetime": "0001-01-01T00:00:00Z",
+     "source": "plugin:duoduo"
+    }
+   ],
+   "guangya": [
+    {
+     "url": "https://www.guangyapan.com/s/1946057909719502939_amDqGbaa58LSIYw3",
+     "password": "",
+     "note": "肖申克的救赎[国英多音轨+简繁英特效字幕].The.Shawshank.Redemption.1994.2160p.HDR.UHD.BluRay.DTS-HD.MA.5.1.5Audio.x265-10bit-ENTHD",
+     "datetime": "2026-09-13T02:38:30Z",
+     "source": "tg:wpan8"
+    },
+    {
+     "url": "https://www.guangyapan.com/s/1945444194947137604_adyMyMAqF4UM3vSl",
+     "password": "",
+     "note": "肖申克的救赎 (1994) [121 GB]",
+     "datetime": "2026-09-11T09:51:28Z",
+     "source": "tg:leoziyuan"
+    }
+   ],
+   "ed2k": [
+    {
+     "url": "ed2k://|file|Inside.the.Milky.Way.2010.1080p.Remux.AVC.DTS-HD.MA.5.1.mkv|17645123593|79F63BD6FEA2560DBDB6E761A1DF41C8|/",
+     "password": "",
+     "note": "名称: 国家地理频道：走进银河 2010 1080p Remux 英语 中英双字",
+     "datetime": "2025-08-31T11:19:30Z",
+     "source": "tg:Lsp115"
+    }
+   ],
+   "mobile": [
+    {
+     "url": "https://caiyun.139.com/w/i/2oRhcg2L4Eacy📁",
+     "password": "",
+     "note": "儿童有声剧《银河少年传说》合集 主播：国家地理 3部876集全",
+     "datetime": "2025-08-12T16:35:09Z",
+     "source": "tg:yunpan139"
+    },
+    {
+     "url": "https://caiyun.139.com/w/i/2oRhcg2L4Eacy",
+     "password": "",
+     "note": "儿童有声剧《银河少年传说》合集 主播：国家地理 3部876集全",
+     "datetime": "2025-08-12T16:35:09Z",
+     "source": "tg:yunpan139"
+    }
+   ]
+  },
+  "results": []
+ }
+}

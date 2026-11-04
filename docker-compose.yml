@@ -1,0 +1,21 @@
+services:
+  panseek:
+    build: .
+    container_name: panseek
+    restart: unless-stopped
+    ports:
+      - "8787:8787"
+    environment:
+      # 想用自己的上游就填这里，逗号分隔可写多个做故障转移
+      PANSOU_ENDPOINTS: ${PANSOU_ENDPOINTS:-https://so.252035.xyz/api/search}
+      UPSTREAM_TIMEOUT_MS: "15000"
+      CACHE_TTL_MS: "300000"
+      RATE_LIMIT_MAX: "40"
+      DEMO_FALLBACK: "true"
+      # 放在 Nginx / 宝塔后面时打开，限流才能拿到真实 IP
+      TRUST_PROXY: "0"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:8787/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

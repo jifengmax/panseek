@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>PanSeek · 网盘资源聚合搜索</title>
+    <meta
+      name="description"
+      content="PanSeek 聚合多个公开资源频道，一个搜索框搜遍夸克网盘、阿里云盘、百度网盘、115、迅雷、UC、天翼、123、PikPak 与磁力资源，支持提取码复制、按网盘类型筛选。"
+    />
+    <meta name="theme-color" content="#0b1020" />
+    <meta property="og:title" content="PanSeek · 网盘资源聚合搜索" />
+    <meta property="og:description" content="一个搜索框，搜遍全网网盘资源。" />
+    <meta property="og:type" content="website" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%234f7cff'/%3E%3Cpath d='M20 40a10 10 0 0 1 2-19.8A13 13 0 0 1 46 24a8 8 0 0 1-1 16H20z' fill='white'/%3E%3C/svg%3E"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="aurora" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a class="brand" href="/" aria-label="PanSeek 首页">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M17.5 19a4.5 4.5 0 0 0 .5-8.97A6.5 6.5 0 0 0 5.3 9.4 4.8 4.8 0 0 0 6.5 19h11z" />
+            <path d="M9 14l3 3 3-3" />
+          </svg>
+        </span>
+        <span class="brand-text">
+          <strong>PanSeek</strong>
+          <em>网盘资源聚合搜索</em>
+        </span>
+      </a>
+
+      <nav class="topnav">
+        <a href="#about" class="ghost-link">关于</a>
+        <button type="button" class="icon-btn" id="themeBtn" title="切换主题" aria-label="切换深浅色主题">
+          <svg class="icon-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+            <circle cx="12" cy="12" r="4.2" />
+            <path d="M12 2.6v2.2M12 19.2v2.2M2.6 12h2.2M19.2 12h2.2M5.3 5.3l1.6 1.6M17.1 17.1l1.6 1.6M18.7 5.3l-1.6 1.6M6.9 17.1l-1.6 1.6" />
+          </svg>
+          <svg class="icon-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M20 14.5A8.2 8.2 0 0 1 9.5 4a8.5 8.5 0 1 0 10.5 10.5z" />
+          </svg>
+        </button>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" id="hero">
+        <div class="hero-inner">
+          <h1 class="hero-title">
+            一个搜索框，<span class="grad">搜遍全网网盘</span>
+          </h1>
+          <p class="hero-sub">
+            聚合多个公开资源频道，实时去重排序 · 支持夸克 / 阿里云盘 / 百度 / 115 / 迅雷 / UC / 天翼 / 123 / PikPak / 磁力
+          </p>
+
+          <form class="searchbar" id="searchForm" role="search" autocomplete="off">
+            <svg class="searchbar-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+              <circle cx="11" cy="11" r="7.2" />
+              <path d="M16.5 16.5 21 21" />
+            </svg>
+            <input
+              id="kw"
+              name="kw"
+              type="search"
+              placeholder="搜电影、剧集、课程、软件、电子书…"
+              aria-label="搜索关键词"
+              maxlength="80"
+              enterkeyhint="search"
+              spellcheck="false"
+            />
+            <button type="button" class="clear-btn" id="clearBtn" hidden aria-label="清空">×</button>
+            <button type="submit" class="search-btn" id="searchBtn">
+              <span class="btn-text">搜索</span>
+              <span class="spinner" aria-hidden="true"></span>
+            </button>
+          </form>
+
+          <div class="hot" id="hotBlock">
+            <span class="hot-label">热门</span>
+            <div class="chips" id="hotChips"></div>
+          </div>
+
+          <div class="recent" id="recentBlock" hidden>
+            <span class="hot-label">最近</span>
+            <div class="chips" id="recentChips"></div>
+            <button type="button" class="link-btn" id="clearHistory">清除</button>
+          </div>
+
+          <ul class="features" id="features">
+            <li>
+              <strong id="statTypes">10</strong>
+              <span>类网盘聚合</span>
+            </li>
+            <li>
+              <strong>实时</strong>
+              <span>去重与排序</span>
+            </li>
+            <li>
+              <strong>提取码</strong>
+              <span>一键复制</span>
+            </li>
+            <li>
+              <strong>开源</strong>
+              <span>零依赖部署</span>
+            </li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="results" id="results" hidden>
+        <div class="toolbar">
+          <div class="tabs" id="typeTabs" role="tablist" aria-label="按网盘类型筛选"></div>
+          <div class="toolbar-side">
+            <span class="stat-text" id="statText"></span>
+            <label class="select-wrap">
+              <span class="sr-only">排序方式</span>
+              <select id="sortSelect">
+                <option value="default">综合排序</option>
+                <option value="relevance">相关度</option>
+                <option value="latest">最新发布</option>
+              </select>
+              <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+                <path d="M6 9l6 6 6-6" />
+              </svg>
+            </label>
+          </div>
+        </div>
+
+        <div class="notice" id="notice" hidden></div>
+
+        <div class="list" id="list"></div>
+
+        <div class="empty" id="empty" hidden>
+          <svg viewBox="0 0 24 24" width="42" height="42" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+            <circle cx="11" cy="11" r="7" />
+            <path d="M16.5 16.5 21 21M8.5 11h5" />
+          </svg>
+          <h3>没有找到相关资源</h3>
+          <p id="emptyHint">试试更短的关键词，或者换一个别名 / 英文名。</p>
+          <div class="chips" id="emptySuggest"></div>
+        </div>
+
+        <div class="error" id="error" hidden>
+          <svg viewBox="0 0 24 24" width="42" height="42" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round">
+            <path d="M12 3.6 21 19.4H3z" />
+            <path d="M12 9.5v4.2M12 16.6v.2" />
+          </svg>
+          <h3>搜索失败了</h3>
+          <p id="errorText">网络或数据源暂时不可用。</p>
+          <button type="button" class="retry" id="retryBtn">重试</button>
+        </div>
+
+        <div class="more-wrap">
+          <button type="button" class="more" id="moreBtn" hidden>加载更多</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer" id="about">
+      <div class="footer-inner">
+        <div class="footer-brand">
+          <strong>PanSeek</strong>
+          <span id="versionText">v1.0.0</span>
+        </div>
+        <p class="disclaimer">
+          本站只做公开链接的聚合检索，不存储、不上传、不代理任何文件。所有资源均来自第三方公开频道，版权归原作者所有；
+          请勿用于商业用途，下载后 24 小时内删除。若链接失效或存在侵权，请联系原始发布者或
+          <a href="https://t.me/" target="_blank" rel="noopener noreferrer">对应频道</a> 处理。
+        </p>
+        <p class="footer-meta">
+          数据源：<span id="sourceText">公开资源频道</span> · 接口：<code>/api/search?kw=关键词</code>
+        </p>
+      </div>
+    </footer>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <button type="button" class="to-top" id="toTop" aria-label="回到顶部">
+      <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M12 19V5M5 12l7-7 7 7" />
+      </svg>
+    </button>
+
+    <script src="/app.js" type="module"></script>
+  </body>
+</html>
